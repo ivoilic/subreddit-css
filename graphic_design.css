@@ -136,6 +136,11 @@ Added
 	background-color: #9BC42B;
 }
 
+/* Overrides Default Capitalization of the Title Input */
+.submit-page .roundfield .title {
+	text-transform: none;
+}
+
 
 /* --- RES-Nightmode support and fixes --- */
 
